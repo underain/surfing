@@ -84,11 +84,11 @@ export default function MainOffer() {
               <Image
                 src="/online-record.png"
                 alt="online-record"
-                width={130}
-                height={130}
+                width={100}
+                height={100}
+                className="min-w-30"
               />
             </motion.span>
-
             <span className="whitespace-nowrap">с нами!</span>
           </span>
         </motion.h1>
